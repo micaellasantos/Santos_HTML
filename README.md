@@ -75,7 +75,7 @@
 
 <label> Message: </label>
 <div>
-<textarea></textarea>
+<textarea> </textarea>
 </div>
 
 <button type="submit" onclick="alert('Message Sent!')">Send Message</button>
